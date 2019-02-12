@@ -6,3 +6,7 @@ jspm_packages
 .serverless
 
 *.log
+
+/testdata/
+
+.DS_Store

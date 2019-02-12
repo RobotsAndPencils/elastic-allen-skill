@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "async-request": "^1.2.0",
+    "box-node-sdk": "^1.25.0"
+  }
+}
