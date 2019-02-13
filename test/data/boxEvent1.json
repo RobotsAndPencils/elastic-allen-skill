@@ -1,0 +1,100 @@
+{
+  "resource": "/elasticAllenSkill-dev-index",
+  "path": "/elasticAllenSkill-dev-index",
+  "httpMethod": "POST",
+  "headers": {
+    "box-delivery-timestamp": "2019-02-12T13:32:55-08:00",
+    "box-signature-algorithm": "HmacSHA256",
+    "box-signature-primary": "0VXXeKpKWe82byCRH4ksBwZ/Myo5hD0G4MCHM9o4iuk=",
+    "box-signature-secondary": "+k289xgIGhYvD6Xxu/JVUiBY1h5672ewX6Gl9AOg5iM=",
+    "box-signature-version": "1",
+    "Cache-Control": "max-age=259200",
+    "Content-Type": "application/json; charset=UTF-8",
+    "Host": "pyo323nnl2.execute-api.us-east-1.amazonaws.com",
+    "Surrogate-Capability": "web-proxy3008.lv7.box.net=\"Surrogate/1.0 ESI/1.0\"",
+    "User-Agent": "Box-Skills-Client/0.1",
+    "X-Amzn-Trace-Id": "Root=1-5c633b87-e909d9acfe6117d0bf92983d",
+    "X-Forwarded-For": "107.152.25.170",
+    "X-Forwarded-Port": "443",
+    "X-Forwarded-Proto": "https"
+  },
+  "multiValueHeaders": {
+    "box-delivery-timestamp": [
+      "2019-02-12T13:32:55-08:00"
+    ],
+    "box-signature-algorithm": [
+      "HmacSHA256"
+    ],
+    "box-signature-primary": [
+      "0VXXeKpKWe82byCRH4ksBwZ/Myo5hD0G4MCHM9o4iuk="
+    ],
+    "box-signature-secondary": [
+      "+k289xgIGhYvD6Xxu/JVUiBY1h5672ewX6Gl9AOg5iM="
+    ],
+    "box-signature-version": [
+      "1"
+    ],
+    "Cache-Control": [
+      "max-age=259200"
+    ],
+    "Content-Type": [
+      "application/json; charset=UTF-8"
+    ],
+    "Host": [
+      "pyo323nnl2.execute-api.us-east-1.amazonaws.com"
+    ],
+    "Surrogate-Capability": [
+      "web-proxy3008.lv7.box.net=\"Surrogate/1.0 ESI/1.0\""
+    ],
+    "User-Agent": [
+      "Box-Skills-Client/0.1"
+    ],
+    "X-Amzn-Trace-Id": [
+      "Root=1-5c633b87-e909d9acfe6117d0bf92983d"
+    ],
+    "X-Forwarded-For": [
+      "107.152.25.170"
+    ],
+    "X-Forwarded-Port": [
+      "443"
+    ],
+    "X-Forwarded-Proto": [
+      "https"
+    ]
+  },
+  "queryStringParameters": null,
+  "multiValueQueryStringParameters": null,
+  "pathParameters": null,
+  "stageVariables": null,
+  "requestContext": {
+    "resourceId": "swuavj",
+    "resourcePath": "/elasticAllenSkill-dev-index",
+    "httpMethod": "POST",
+    "extendedRequestId": "VAY9PHbloAMFz4g=",
+    "requestTime": "12/Feb/2019:21:32:55 +0000",
+    "path": "/default/elasticAllenSkill-dev-index",
+    "accountId": "901211063728",
+    "protocol": "HTTP/1.1",
+    "stage": "default",
+    "domainPrefix": "pyo323nnl2",
+    "requestTimeEpoch": 1550007175958,
+    "requestId": "c2ba249d-2f0d-11e9-bb94-95f2a666b320",
+    "identity": {
+      "cognitoIdentityPoolId": null,
+      "accountId": null,
+      "cognitoIdentityId": null,
+      "caller": null,
+      "sourceIp": "107.152.25.170",
+      "accessKey": null,
+      "cognitoAuthenticationType": null,
+      "cognitoAuthenticationProvider": null,
+      "userArn": null,
+      "userAgent": "Box-Skills-Client/0.1",
+      "user": null
+    },
+    "domainName": "pyo323nnl2.execute-api.us-east-1.amazonaws.com",
+    "apiId": "pyo323nnl2"
+  },
+  "body": "{\"type\":\"skill_invocation\",\"skill\":{\"id\":\"3641\",\"type\":\"skill\",\"name\":\"ElasticAllenSkill\",\"api_key\":\"10w0nbm76yw94b4nabksokflqyxvmwag\"},\"token\":{\"write\":{\"access_token\":\"1!QKiOMvNk9DbR5wQ3XE1Vhn3GzHtWSOr6Bo9nw1ZeqSwaNZnP4ALctXEU1wlKg_JnbWwh0dC3f5bW6brczJuLrlYltg7Oilo_4AbAaJL0EZGxiW1wvK8sMvhSqliWW_42NJnmZwIXfAq0lx65RhP46vhxo9j8J0grGH5Bz3CbL3bDKfoV3dQ958leUDZ80WnlRr94b_ysnzWSs3_mCM2ywdUyEco2D_5vthZBXWpInu5OMw1wzTbIxSKU2AI2RULGygH9d7wxK-0PrWXkCbODSHhtR1dW0aq6l1Zn1TJ1dhNF-S2inRDqjv-xGoRjblka7qs-tBk5jD7YV6OqXyFooZnvroJB97M5luwT-sM-GtDOG0HAgPKILR_ct1wDzVawkwl-on6Sec6OGN9UNZr3AhpPC7zYD101DOVjthHKBCGCSWZrg8EqjU5tb9YY9aMoFVwnEdVMYNlxN-Cw-NFAjs5Amb186J9To51T1zr2Q8c.\",\"expires_in\":1550093575,\"restricted_to\":\"[{\\\"scope\\\":\\\"gcm\\\"},{\\\"scope\\\":\\\"item_upload\\\",\\\"object_id\\\":400985806595,\\\"object_type\\\":\\\"file\\\"},{\\\"scope\\\":\\\"manage_skill_invocations\\\"}]\",\"token_type\":\"bearer\"},\"read\":{\"access_token\":\"1!iGbB234DPcjrVJ5kg19gOQzTDZdaMVG69_EtvVhtVfyXe30Z8-MB5DtGBL6mVA1TyO4iVwlmdlJvE43uFrOysl8wm1NyJcF_qBoCU__9seNm-yzhCUYsiillAMhSX4IZ9of4J75CXdhhK7UY_bVBB7bf3tfbNw4dvMYrpKZ-UZSzglwcGnEAk6Vn1K7pkHL15AEA0BrsrqVofBYVGMmp7wXCOzZhicljiuXLvU5tcw9rigzTSE1004LDihDUjzzJqBZtWlSk5XEtPoLCpryTAqPMJqiln_f4TRUjk-4uCO0P1bn6yH6WICdhf3eu3zKKb3typwJPzVsXCGc3JTYWnt5AakS3JjtMIwzAz_i8l_ddc4neYn31PklRZGU4u-Ni0qMLjN9sTiCBnym4kAZxkiviGZKkniENQwEPZUrV62tsTYwfAg..\",\"expires_in\":1550093575,\"restricted_to\":\"[{\\\"scope\\\":\\\"gcm\\\"},{\\\"scope\\\":\\\"item_read\\\",\\\"object_id\\\":400985806595,\\\"object_type\\\":\\\"file\\\"}]\",\"token_type\":\"bearer\"}},\"status\":{\"state\":\"invoked\",\"message\":\"\",\"error_code\":\"\",\"additional_info\":\"\"},\"id\":\"1701e8a4-f933-413f-96e3-cc9bdd144806_339157579\",\"created_at\":\"2019-02-12T13:32:54-08:00\",\"trigger\":\"FILE_CONTENT\",\"enterprise\":{\"type\":\"enterprise\",\"id\":\"22469300\",\"name\":\"Robots and Pencils\"},\"source\":{\"type\":\"file\",\"id\":\"400985806595\",\"name\":\"new magnet.txt\",\"sequence_id\":\"6\",\"file_version\":{\"id\":\"424170992302\"},\"owner_enterprise_id\":\"22469300\",\"parent\":{\"id\":\"66732684150\"},\"old_parent_id\":\"\",\"collab_accessible_by\":{\"type\":\"\",\"id\":\"\",\"name\":\"\",\"login\":\"\"},\"size\":2424},\"event\":{\"event_id\":\"1701e8a4-f933-413f-96e3-cc9bdd144806\",\"event_type\":\"ITEM_UPLOAD\",\"created_at\":\"2019-02-12T13:32:54-08:00\",\"created_by\":{\"type\":\"user\",\"id\":\"3541543826\",\"name\":\"Josh Page\",\"login\":\"josh.page@robotsandpencils.com\"},\"source\":{\"type\":\"file\",\"id\":\"400985806595\",\"name\":\"new magnet.txt\",\"sequence_id\":\"6\",\"file_version\":{\"id\":\"424170992302\"},\"owner_enterprise_id\":\"22469300\",\"parent\":{\"id\":\"66732684150\"},\"old_parent_id\":\"\",\"collab_accessible_by\":{\"type\":\"\",\"id\":\"\",\"name\":\"\",\"login\":\"\"}}},\"parameters\":{}}",
+  "isBase64Encoded": false
+}

@@ -1,0 +1,18 @@
+A new type of magnet plays by its own rules. It’s made of a uranium compound that goes from zero to magnet with the flip of a switch, and it has now been created at reasonable temperatures for the first time.
+
+Regular fridge magnets are made of tiny particles, the magnetism of which is all aligned in one direction to create a magnetic field. The direction of magnetism for each of the particles is called the magnetic moment.
+
+Some materials do not have magnetic moments because they are in what’s called a singlet state, in which any particle that could create a magnetic field is essentially locked down by a partner particle. These materials shouldn’t be able to become magnets – but they actually can.
+
+
+Andrew Wray at New York University and his colleagues found that a compound of uranium and antimony can become a magnet, even though its particles are in singlet states. The compound contains tiny packets of energy that are not quite particles but do have magnetic moments, and at the right temperature they can form clumps that create magnetic fields.
+
+The idea that this could be possible is decades old, but all previous attempts to make this type of magnet were carried out using materials at extremely low temperatures, making it difficult to confirm the materials had become magnets or study them.
+
+“This is the first truly robust one that we can play with in a useful way to study it on a microscopic level,” says Wray. His group’s uranium compounds became magnetic at about −70°C, which is hundreds of degrees warmer than the magnets made in previous experiments.
+
+They also reached their peak magnetism much more suddenly than many similar types of magnets, rather than slowly becoming magnetic as the temperature was decreased.
+
+“That makes it good for digital data storage,” says Wray. “For data storage you want something where there’s a big effect but it doesn’t cost you much energy to achieve that big effect, so you can easily write new information.” If the change from a regular shiny rock to a magnet happens quickly, it could lower the power consumption and increase the speed of recording data to be stored.
+
+It’s not ready to be wired into a computer just yet – for one thing, it is made out of radioactive uranium – but Wray says that these magnets may be the first step towards achieving this “singlet-based” magnetism in other, more robust materials.
