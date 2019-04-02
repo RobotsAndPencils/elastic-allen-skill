@@ -8,5 +8,5 @@ jspm_packages
 *.log
 
 /testdata/
-
+/test/dropFiles/*
 .DS_Store
